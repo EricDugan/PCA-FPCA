@@ -46,7 +46,7 @@ load('gait');
 % Make sure to name the filepath correctly (see below):
 
 %%
-addpath('E:\fdaM\')
+%addpath('E:\fdaM\')
 
 %% Functional Data Analysis (Preliminary Steps)
 %
